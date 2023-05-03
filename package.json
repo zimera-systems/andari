@@ -1,0 +1,18 @@
+{
+  "name": "Andari Project",
+  "version": "0.1.0",
+  "description": "Prototipe software untuk layanan ANDARI (Anda Rancang Sendiri), program dari Balai Jawa III PUPR.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Bambang Purnomosidi D. P. - Zimera Systems",
+  "license": "Apache License 2.0",
+  "dependencies": {
+    "three": "^0.152.2"
+  },
+  "devDependencies": {
+    "vite": "^4.3.4"
+  }
+}
